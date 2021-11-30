@@ -1,0 +1,6 @@
+EmID	EmName	EmSalary
+A001	a	5.00
+A002	b	6.00
+A003	a	7.00
+A004	c	8.00
+kk	ll	2.00
